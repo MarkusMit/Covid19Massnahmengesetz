@@ -24,8 +24,9 @@ Fehler vorbehalten.
 [NOTE]
 ====
 Ausgegeben am 15. März 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/96[BGBl. II Nr. 96/2020]) +
-Gültig ab  16. März 2020 +
-Gültig bis 20. März 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/110[BGBl. II Nr. 110/2020])
+Novelle ausgegeben am 20. März 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/110[BGBl. II Nr. 110/2020]) +
+Gültig ab 21. März 2020 +
+Gültig bis 13. April 2020
 ====
 
 *96. Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz betreffend vorläufige Maßnahmen zur Verhinderung der Verbreitung von COVID-19*
@@ -52,7 +53,10 @@ zum Zweck des Erwerbs von Waren oder der Inanspruchnahme von Dienstleistungen od
 11. Agrarhandel einschließlich Schlachttierversteigerungen sowie der Gartenbaubetrieb und der Landesproduktenhandel mit Saatgut, Futter und Düngemittel
 12. Tankstellen
 13. Banken
-14. Post einschließlich Postpartner, soweit deren Unternehmen unter die Ausnahmen des § 2 fällt, und Telekommunikation
+14. Postdiensteanbieter einschließlich deren Postpartner, soweit diese Postpartner unter die Ausnahmen des § 2 fallen
+    sowie Postgeschäftsstellen iSd § 3 Z 7 PMG, welche von einer Gemeinde betrieben werden oder in Gemeinden liegen,
+    in denen die Versorgung durch keine andere unter § 2 fallende Postgeschäftsstelle erfolgen kann,
+    jedoch ausschließlich für die Erbringung von Postdienstleistungen und die unter § 2 erlaubten Tätigkeiten, und Telekommunikation.
 15. Dienstleistungen im Zusammenhang mit der Rechtspflege
 16. Lieferdienste
 17. Öffentlicher Verkehr
@@ -83,6 +87,6 @@ ausschließlich an Gäste des Campingplatzes bzw. öffentlicher Verkehrsmitteln 
 
 (2) § 3 tritt mit 17. März 2020 in Kraft.
 
-(3) Diese Verordnung tritt mit Ablauf des 22. März 2020 außer Kraft.
+(3) Diese Verordnung tritt mit Ablauf des 13. April 2020 außer Kraft.
 
 *Anschober*
