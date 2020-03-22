@@ -1,0 +1,28 @@
+= Covid-19 Gesetz
+:icons: font
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+Novellen des COVID-19 Gesetzes und darauf basierender Verordnungen
+
+[CAUTION]
+.Haftungsausschluss
+====
+Diese Seite dient nur dem Zweck, die verschiedenen Novellen des
+https://www.ris.bka.gv.at/eli/bgbl/II/2020/107["COVID-19 Gesetz" (BGBl. I Nr. 12/2020)]
+und der darauf basierenden Verordnungen +
+https://www.ris.bka.gv.at/eli/bgbl/II/2020/96["Vorläufige Maßnahmen zur Verhinderung der Verbreitung von COVID-19" (BGBl. II Nr. 96/2020)],
+sowie +
+https://www.ris.bka.gv.at/eli/bgbl/II/2020/98["Verordnung gemäß § 2 Z 1 des COVID-19-Maßnahmengesetzes" (BGBl. II Nr. 98/2020)] +
+besser vergleichbar zu machen.
+
+Diese Seite ist rechtlich unverbindlich.
+Fehler vorbehalten. +
+Rechlich verbindliche Informationen  im https://www.ris.bka.gv.at/[Rechtsinformationssystem des Bundes (ris.bka.gv.at)].
+====
+
