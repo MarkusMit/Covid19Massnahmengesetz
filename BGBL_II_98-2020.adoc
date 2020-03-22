@@ -24,9 +24,9 @@ Fehler vorbehalten.
 [NOTE]
 ====
 Ausgegeben am 15. März 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/98[BGBl. II Nr. 98/2020]) +
-Novelle ausgegeben am 19. März 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/107[BGBl. II Nr. 107/2020]) +
-Gültig ab  20. März 2020 +
-Gültig bis 20. März 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/108[BGBl. II Nr. 108/2020])
+Novelle ausgegeben am 20. März 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/108[BGBl. II Nr. 108/2020]) +
+Gültig ab  21. März 2020 +
+Gültig bis 13. April 2020
 ====
 
 *98. Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz gemäß § 2 Z 1 des COVID-19-Maßnahmengesetzes*
@@ -48,7 +48,8 @@ Ausgenommen vom Verbot gemäß § 1 sind Betretungen,
 4. die für berufliche Zwecke erforderlich sind und sichergestellt ist,
    dass am Ort der beruflichen Tätigkeit zwischen den Personen ein Abstand von mindestens einem Meter eingehalten werden kann,
    sofern nicht durch entsprechende Schutzmaßnahmen das Infektionsrisiko minimiert werden kann.
-   Dabei dürfen Arbeitsstätten lediglich dann betreten werden, wenn die berufliche Tätigkeit nicht auch außerhalb der Arbeitsstätte durchgeführt werden kann;
+   Dabei ist darauf zu achten, dass eine berufliche Tätigkeit vorzugweise außerhalb der Arbeitsstätte erfolgen soll,
+   sofern dies möglich ist und Arbeitgeber und Arbeitnehmer darüber ein Einvernehmen finden.
 5. wenn öffentliche Orte im Freien alleine, mit Personen, die im gemeinsamen Haushalt leben,
    oder mit Haustieren betreten werden sollen,
    gegenüber anderen Personen ist dabei ein Abstand von mindestens einem Meter einzuhalten.
@@ -73,7 +74,7 @@ Im Fall der Kontrolle durch Organe des öffentlichen Sicherheitsdienstes sind di
 warum eine Betretung gemäß § 2 zulässig ist, glaubhaft zu machen.
 
 *§ 7.*
-(1) Diese Verordnung tritt mit 16. März 2020 in Kraft und mit Ablauf des 22. März 2020 außer Kraft.
+(1) Diese Verordnung tritt mit 16. März 2020 in Kraft und mit Ablauf des 13. April 2020 außer Kraft.
 
 (2) Die Änderungen durch die Novelle https://www.ris.bka.gv.at/eli/bgbl/II/2020/107[BGBl. II Nr. 107/2020] treten mit dem der Kundmachung folgenden Tag in Kraft.
 
