@@ -7,6 +7,7 @@ ifdef::env-github[]
 :caution-caption: :fire:
 :warning-caption: :warning:
 endif::[]
+:repo: https://github.com/MarkusMit/Covid19Gesetz
 
 Novellen des COVID-19 Gesetzes und darauf basierender Verordnungen
 
@@ -14,7 +15,7 @@ Novellen des COVID-19 Gesetzes und darauf basierender Verordnungen
 .Haftungsausschluss
 ====
 Diese Seite dient nur dem Zweck, die verschiedenen Novellen des
-https://www.ris.bka.gv.at/eli/bgbl/II/2020/107["COVID-19 Gesetz" (BGBl. I Nr. 12/2020)]
+https://www.ris.bka.gv.at/eli/bgbl/I/2020/12["COVID-19 Gesetz" (BGBl. I Nr. 12/2020)]
 und der darauf basierenden Verordnungen +
 https://www.ris.bka.gv.at/eli/bgbl/II/2020/96["Vorläufige Maßnahmen zur Verhinderung der Verbreitung von COVID-19" (BGBl. II Nr. 96/2020)],
 sowie +
@@ -26,3 +27,36 @@ Fehler vorbehalten. +
 Rechlich verbindliche Informationen  im https://www.ris.bka.gv.at/[Rechtsinformationssystem des Bundes (ris.bka.gv.at)].
 ====
 
+== Covid-19 Gesetz
+
+https://www.ris.bka.gv.at/eli/bgbl/I/2020/12[BGBl. I Nr. 12/2020] COVID-19 Gesetz
+
+* link:{repo}/blob/bgbl_i_12-2020/BGBL_I_12-2020.adoc[ursprüngliche Fassung]
+
+dzt. keine Novellen
+
+=== Verordnung "Vorläufige Maßnahmen zur Verhinderung der Verbreitung von COVID-19"
+
+https://www.ris.bka.gv.at/eli/bgbl/II/2020/96[BGBl. II Nr. 96/2020] Vorläufige Maßnahmen zur Verhinderung der Verbreitung von COVID-19
+
+* link:{repo}/blob/bgbl_ii_96-2020/BGBL_II_96-2020.adoc[ursprüngliche Fassung]
+
+* link:{repo}/blob/bgbl_ii_110-2020/BGBL_II_96-2020.adoc[Novelle BGBl. II 110/2020], 20. März 2020
+** Vergleich mit: link:{repo}/commit/831453ff4fd14adeaedb4c88ca79a7a7cde019c3?short_path=9b4f899#diff-9b4f89980d188984cd304a404cf74659[ursprünglicher Fassung]
+   (link:{repo}/commit/831453ff4fd14adeaedb4c88ca79a7a7cde019c3#diff-9b4f89980d188984cd304a404cf74659[q, title=Quelltext])
+
+=== Verordung "Verordnung gemäß § 2 Z 1 des COVID-19-Maßnahmengesetzes"
+
+https://www.ris.bka.gv.at/eli/bgbl/II/2020/98[BGBl. II Nr. 96/2020] Verordnung gemäß § 2 Z 1 des COVID-19-Maßnahmengesetzes
+
+* link:{repo}/blob/bgbl_ii_98-2020/BGBL_II_98-2020.adoc[ursprüngliche Fassung]
+
+* link:{repo}/blob/bgbl_ii_107-2020/BGBL_II_98-2020.adoc[Novelle BGBl. II 107/2020], 19. März 2020
+** Vergleich mit: link:{repo}/commit/c17b8d56fdea9f6887151c2f30fd33d8c1b46e75?short_path=4e67f25#diff-4e67f2502398b67e76f7fab2e408ace1[ursprünglicher Fassung]
+   (link:{repo}/commit/c17b8d56fdea9f6887151c2f30fd33d8c1b46e75#diff-4e67f2502398b67e76f7fab2e408ace1[q, title=Quelltext])
+
+* link:{repo}/blob/bgbl_ii_108-2020/BGBL_II_98-2020.adoc[Novelle BGBl. II 108/2020], 20. März 2020
+** Vergleich mit: link:{repo}/compare/d143fdec668108db2298fea9ecd83cd9732f2db0..3947d4aa4698a6f03cec5ca974b74efdd9a56493?short_path=4e67f25#diff-4e67f2502398b67e76f7fab2e408ace1[ursprünglicher Fassung]
+(link:{repo}/compare/d143fdec668108db2298fea9ecd83cd9732f2db0..3947d4aa4698a6f03cec5ca974b74efdd9a56493#diff-4e67f2502398b67e76f7fab2e408ace1[q, title=Quelltext])
+/ link:{repo}/commit/3947d4aa4698a6f03cec5ca974b74efdd9a56493?short_path=4e67f25#diff-4e67f2502398b67e76f7fab2e408ace1[voreriger Fassung (107/2020)]
+(link:{repo}/commit/3947d4aa4698a6f03cec5ca974b74efdd9a56493#diff-4e67f2502398b67e76f7fab2e408ace1[q, title=Quelltext])
