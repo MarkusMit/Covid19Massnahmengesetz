@@ -46,10 +46,10 @@ https://www.ris.bka.gv.at/eli/bgbl/II/2020/96[BGBl. II Nr. 96/2020] Vorläufige 
 (link:{repo}/commit/831453ff4fd14adeaedb4c88ca79a7a7cde019c3#diff-9b4f89980d188984cd304a404cf74659[q, title=Quelltext])
 
 * link:{repo}/blob/bgbl_ii_112-2020/BGBL_II_96-2020.adoc[konsolidierte Fassung, Novelle BGBl. II 112/2020], g.a. 23. März 2020
-** Vergleich mit: link:{repo}/compare/bgbl_ii_96-2020...bgbl_ii_112-2020?short_path=9b4f899#diff-9b4f89980d188984cd304a404cf74659[ursprünglicher Fassung]
-(link:{repo}/compare/bgbl_ii_96-2020...bgbl_ii_112-2020#diff-9b4f89980d188984cd304a404cf74659[q, title=Quelltext])
-/ link:{repo}/compare/bgbl_ii_110-2020...bgbl_ii_112-2020?short_path=9b4f899#diff-9b4f89980d188984cd304a404cf74659[vorheriger Fassung (107/2020)]
-(link:{repo}/compare/bgbl_ii_110-2020...bgbl_ii_112-2020#diff-9b4f89980d188984cd304a404cf74659[q, title=Quelltext])
+** Vergleich mit: link:{repo}/compare/bgbl_ii_96-2020%2E%2E%2Ebgbl_ii_112-2020?short_path=9b4f899#diff-9b4f89980d188984cd304a404cf74659[ursprünglicher Fassung]
+(link:{repo}/compare/bgbl_ii_96-2020%2E%2E%2Ebgbl_ii_112-2020#diff-9b4f89980d188984cd304a404cf74659[q, title=Quelltext])
+/ link:{repo}/compare/bgbl_ii_110-2020%2E%2E%2Ebgbl_ii_112-2020?short_path=9b4f899#diff-9b4f89980d188984cd304a404cf74659[vorheriger Fassung (107/2020)]
+(link:{repo}/compare/bgbl_ii_110-2020%2E%2E%2Ebgbl_ii_112-2020#diff-9b4f89980d188984cd304a404cf74659[q, title=Quelltext])
 
 === Verordung "Verordnung gemäß § 2 Z 1 des COVID-19-Maßnahmengesetzes"
 
