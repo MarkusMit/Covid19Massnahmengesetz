@@ -54,9 +54,9 @@ zum Zweck des Erwerbs von Waren oder der Inanspruchnahme von Dienstleistungen od
 12. Tankstellen
 13. Banken
 14. Postdiensteanbieter einschließlich deren Postpartner, soweit diese Postpartner unter die Ausnahmen des § 2 fallen
-    sowie Postgeschäftsstellen iSd § 3 Z 7 PMG, welche von einer Gemeinde betrieben werden oder in Gemeinden liegen,
-    in denen die Versorgung durch keine andere unter § 2 fallende Postgeschäftsstelle erfolgen kann,
-    jedoch ausschließlich für die Erbringung von Postdienstleistungen und die unter § 2 erlaubten Tätigkeiten, und Telekommunikation.
+sowie Postgeschäftsstellen iSd § 3 Z 7 PMG, welche von einer Gemeinde betrieben werden oder in Gemeinden liegen,
+in denen die Versorgung durch keine andere unter § 2 fallende Postgeschäftsstelle erfolgen kann,
+jedoch ausschließlich für die Erbringung von Postdienstleistungen und die unter § 2 erlaubten Tätigkeiten, und Telekommunikation.
 15. Dienstleistungen im Zusammenhang mit der Rechtspflege
 16. Lieferdienste
 17. Öffentlicher Verkehr
