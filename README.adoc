@@ -1,4 +1,4 @@
-= Covid-19 Gesetz
+= Covid-19-Maßnahmengesetz
 :icons: font
 ifdef::env-github[]
 :tip-caption: :bulb:
@@ -9,7 +9,7 @@ ifdef::env-github[]
 endif::[]
 :repo: https://github.com/MarkusMit/Covid19Massnahmengesetz
 
-Novellen des COVID-19 Gesetzes und darauf basierender Verordnungen
+Novellen des Covid-19-Maßnahmengesetzes und darauf basierender Verordnungen
 
 [CAUTION]
 .Haftungsausschluss
