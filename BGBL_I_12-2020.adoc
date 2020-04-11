@@ -25,8 +25,8 @@ Fehler vorbehalten.
 [NOTE]
 ====
 Ausgegeben am 15. März 2020 (https://www.ris.bka.gv.at/eli/bgbl/I/2020/12[BGBl. I Nr. 12/2020]) +
-Gültig ab  22. März 2020 (https://www.ris.bka.gv.at/eli/bgbl/I/2020/16[BGBl. I Nr. 16/2020]) +
-Gültig bis 04. April 2020 (https://www.ris.bka.gv.at/eli/bgbl/I/2020/23[BGBl. I Nr. 23/2020])h
+Gültig ab  05. April 2020 (https://www.ris.bka.gv.at/eli/bgbl/I/2020/23[BGBl. I Nr. 23/2020]) +
+Gültig bis 31. Dezember 2020
 ====
 
 *Betreten von Betriebsstätten zum Zweck des Erwerbs von Waren und Dienstleistungen sowie Arbeitsorte*
@@ -37,6 +37,7 @@ das Betreten von Betriebsstätten oder nur bestimmten Betriebsstätten zum Zweck
 oder Arbeitsorte im Sinne des § 2 Abs. 3 ArbeitnehmerInnenschutzgesetz untersagen,
 soweit dies zur Verhinderung der Verbreitung von COVID-19 erforderlich ist.
 In der Verordnung kann geregelt werden, in welcher Zahl und zu welcher Zeit jene Betriebsstätten betreten werden dürfen, die vom Betretungsverbot ausgenommen sind.
+Darüber hinaus kann geregelt werden, unter welchen bestimmten Voraussetzungen oder Auflagen Betriebsstätten oder Arbeitsorte betreten werden dürfen.
 
 *Betreten von bestimmten Orten*
 
@@ -49,6 +50,7 @@ soweit dies zur Verhinderung der Verbreitung von COVID-19 erforderlich ist. Die 
 3. von der Bezirksverwaltungsbehörde zu erlassen, wenn sich ihre Anwendung auf den politischen Bezirk oder Teile desselben erstreckt.
 
 Das Betretungsverbot kann sich auf bestimmte Zeiten beschränken.
+Darüber hinaus kann geregelt werden, unter welchen bestimmten Voraussetzungen oder Auflagen jene bestimmten Orte betreten werden dürfen.
 
 *Mitwirkung von Organen des öffentlichen Sicherheitsdienstes*
 
@@ -57,9 +59,15 @@ Das Betretungsverbot kann sich auf bestimmte Zeiten beschränken.
 über deren Ersuchen bei der Ausübung ihrer beschriebenen Aufgaben bzw. zur Durchsetzung der vorgesehenen Maßnahmen
 erforderlichenfalls unter Anwendung von Zwangsmitteln zu unterstützen.
 
-(2) Sofern nach der fachlichen Beurteilung der nach diesem Bundesgesetz zuständigen Behörden im Rahmen der nach Abs. 1 vorgesehenen Unterstützung
+(1a) Die Organe des öffentlichen Sicherheitsdienstes haben an der Vollziehung dieses Bundesgesetzes und der auf Grund dieses Bundesgesetzes erlassenen Verordnungen mitzuwirken durch
+
+1. Maßnahmen zur Vorbeugung gegen drohende Verwaltungsübertretungen,
+2. Maßnahmen zur Einleitung und Sicherung eines Verwaltungsstrafverfahrens und
+3. die Ahndung von Verwaltungsübertretungen durch Organstrafverfügungen (§ 50 VStG).
+
+(2) Sofern nach der fachlichen Beurteilung der jeweiligen Gesundheitsbehörde im Rahmen der nach Abs. 1 vorgesehenen Mitwirkung
 für die Organe des öffentlichen Sicherheitsdienstes nach der Art der übertragbaren Krankheit und deren Übertragungsmöglichkeiten eine Gefährdung verbunden ist,
-der nur durch besondere Schutzmaßnahmen begegnet werden kann, so sind die nach diesem Bundesgesetz zuständigen Behörden verpflichtet,
+der nur durch besondere Schutzmaßnahmen begegnet werden kann, so sind die Gesundheitsbehörden verpflichtet,
 adäquate Schutzmaßnahmen zu treffen.
 
 *Strafbestimmungen*
@@ -87,6 +95,8 @@ betreffend die Schließung von Betriebsstätten im Rahmen des Anwendungsbereichs
 (3) Die Bestimmungen des Epidemiegesetzes 1950 bleiben unberührt.
 
 (4) Verordnungen auf Grund dieses Bundesgesetzes können vor seinem Inkrafttreten erlassen werden, dürfen jedoch nicht vor diesem in Kraft treten.
+
+(5) §§ 1, 2 und § 2a in der Fassung des Bundesgesetzes BGBl. I Nr. 23/2020 treten mit dem der Kundmachung folgenden Tag in Kraft.
 
 *Vollziehung*
 
