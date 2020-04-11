@@ -24,9 +24,9 @@ Fehler vorbehalten.
 [NOTE]
 ====
 Ausgegeben am 15. März 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/96[BGBl. II Nr. 96/2020]) +
-Novelle ausgegeben am 22. März 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/112[BGBl. II Nr. 112/2020]) +
-Gültig ab 23. März 2020 +
-Gültig bis 2. April 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/130[BGBl. II Nr. 130/2020])
+Novelle ausgegeben am 2. April 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/130[BGBl. II Nr. 130/2020]) +
+Gültig ab 3. April 2020 +
+Gültig bis 13. April 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/151[BGBl. II Nr. 151/2020])
 ====
 
 *96. Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz betreffend vorläufige Maßnahmen zur Verhinderung der Verbreitung von COVID-19*
@@ -88,9 +88,36 @@ ausschließlich an Gäste des Campingplatzes bzw. öffentlicher Verkehrsmitteln 
 
 (5) Abs. 1 gilt nicht für Lieferservice.
 
+(6) Die Abholung vorbestellter Speisen ist zulässig, sofern diese nicht vor Ort konsumiert werden und sichergestellt ist,
+dass gegenüber anderen Personen dabei ein Abstand von mindestens einem Meter eingehalten wird.
+
 *§ 4.*
+(1) Das Betreten von Beherbergungsbetrieben zum Zweck der Erholung und Freizeitgestaltung ist untersagt.
+
+(2) Beherbergungsbetriebe sind Unterkunftsstätten,
+die unter der Leitung oder Aufsicht des Unterkunftgebers oder eines von diesem Beauftragten stehen
+und zur entgeltlichen oder unentgeltlichen Unterbringung von Gästen zu vorübergehendem Aufenthalt bestimmt sind.
+Beaufsichtigte Camping- oder Wohnwagenplätze sowie Schutzhütten gelten als Beherbergungsbetriebe.
+
+(3) Abs. 1 gilt nicht für Beherbergungen
+
+1. von Personen, die sich zum Zeitpunkt des Inkrafttretens dieser Bestimmung bereits in Beherbergung befinden,
+   für die im Vorfeld mit dem Beherbergungsbetrieb vereinbarte Dauer der Beherbergung,
+2. zum Zweck der Betreuung und Hilfeleistung von unterstützungsbedürftigen Personen,
+3. aus beruflichen Gründen oder
+4. zur Stillung eines dringenden Wohnbedürfnisses.“
+
+*§ 5.*
 (1) Diese Verordnung tritt mit Ablauf des 13. April 2020 außer Kraft.
 
 (2) Die Änderungen dieser Verordnung durch die Verordnung BGBl. II Nr. 112/2020 treten mit dem der Kundmachung folgenden Tag in Kraft.
+
+(3) § 4 dieser Verordnung in der Fassung der Verordnung BGBl. II Nr. 130/2020 tritt mit Ablauf des 3. April 2020 in Kraft.
+Im Zeitpunkt des Inkrafttretens dieser Bestimmung bestehende Verordnungen eines Landeshauptmannes oder einer Bezirksverwaltungsbehörde
+über Betretungsverbote von Beherbergungsbetrieben bleiben unberührt.
+
+(4) Die §§ 1 bis 3 treten mit Ablauf des 13. April 2020 außer Kraft.
+
+(5) § 4 tritt mit Ablauf des 24. April 2020 außer Kraft.
 
 *Anschober*
