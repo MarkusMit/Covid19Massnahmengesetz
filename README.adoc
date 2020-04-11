@@ -80,7 +80,7 @@ https://www.ris.bka.gv.at/eli/bgbl/II/2020/98[BGBl. II Nr. 98/2020 (RIS)] Verord
 (link:{repo}/commit/3947d4aa4698a6f03cec5ca974b74efdd9a56493#diff-4e67f2502398b67e76f7fab2e408ace1[q, title=Quelltext])
 
 * link:{repo}/blob/bgbl_ii_148-2020/BGBL_II_98-2020.adoc[konsolidierte Fassung, Novelle BGBl. II 148/2020], g.a. 14. April 2020
-** Vergleich mit: link:{repo}/compare/bgbl_ii_98-2020%2E%2E%2Ebgbl_ii_148-2020?short_path=9b4f899#diff-9b4f89980d188984cd304a404cf74659[ursprünglicher Fassung]
-(link:{repo}/compare/bgbl_ii_98-2020%2E%2E%2Ebgbl_ii_148-2020#diff-9b4f89980d188984cd304a404cf74659[q, title=Quelltext])
-/ link:{repo}/compare/bgbl_ii_108-2020%2E%2E%2Ebgbl_ii_148-2020?short_path=9b4f899#diff-9b4f89980d188984cd304a404cf74659[vorheriger Fassung (108/2020)]
-(link:{repo}/compare/bgbl_ii_108-2020%2E%2E%2Ebgbl_ii_148-2020#diff-9b4f89980d188984cd304a404cf74659[q, title=Quelltext])
+** Vergleich mit: link:{repo}/compare/bgbl_ii_98-2020%2E%2E%2Ebgbl_ii_148-2020?short_path=9b4f899#diff-4e67f2502398b67e76f7fab2e408ace1[ursprünglicher Fassung]
+(link:{repo}/compare/bgbl_ii_98-2020%2E%2E%2Ebgbl_ii_148-2020#diff-4e67f2502398b67e76f7fab2e408ace1[q, title=Quelltext])
+/ link:{repo}/compare/bgbl_ii_108-2020%2E%2E%2Ebgbl_ii_148-2020?short_path=9b4f899#diff-4e67f2502398b67e76f7fab2e408ace1[vorheriger Fassung (108/2020)]
+(link:{repo}/compare/bgbl_ii_108-2020%2E%2E%2Ebgbl_ii_148-2020#diff-4e67f2502398b67e76f7fab2e408ace1[q, title=Quelltext])
