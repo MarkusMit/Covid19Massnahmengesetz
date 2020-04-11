@@ -7,7 +7,7 @@ ifdef::env-github[]
 :caution-caption: :fire:
 :warning-caption: :warning:
 endif::[]
-:repo: https://github.com/MarkusMit/Covid19Gesetz
+:repo: https://github.com/MarkusMit/Covid19Massnahmengesetz
 
 Novellen des COVID-19 Gesetzes und darauf basierender Verordnungen
 
