@@ -24,9 +24,9 @@ Fehler vorbehalten.
 [NOTE]
 ====
 Ausgegeben am 15. März 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/98[BGBl. II Nr. 98/2020]) +
-Novelle ausgegeben am 20. März 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/108[BGBl. II Nr. 108/2020]) +
-Gültig ab  21. März 2020 +
-Gültig bis 13. April 2020
+Novelle ausgegeben am 9. April 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/148[BGBl. II Nr. 148/2020]) +
+Gültig ab  14. April 2020 +
+Gültig bis 30. April 2020
 ====
 
 *98. Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz gemäß § 2 Z 1 des COVID-19-Maßnahmengesetzes*
@@ -44,10 +44,16 @@ Ausgenommen vom Verbot gemäß § 1 sind Betretungen,
 3. die zur Deckung der notwendigen Grundbedürfnisse des täglichen Lebens erforderlich sind und sichergestellt ist,
    dass am Ort der Deckung des Bedarfs zwischen den Personen ein Abstand von mindestens einem Meter eingehalten werden kann,
    sofern nicht durch entsprechende Schutzmaßnahmen das Infektionsrisiko minimiert werden kann.
-   Diese Ausnahme schließt auch Begräbnisse im engsten Familienkreis mit ein;
+   Diese Ausnahme schließt auch Eheschließungen und Begräbnisse im engen familiären Kreis mit ein;
+
+ a. 3a. zum Erwerb von Waren oder Inanspruchnahme von Dienstleistungen nach Maßgabe der Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz
+    betreffend vorläufige Maßnahmen zur Verhinderung der Verbreitung von COVID-19, BGBl. II Nr. 96/2020 idgF;
+
 4. die für berufliche Zwecke erforderlich sind und sichergestellt ist,
    dass am Ort der beruflichen Tätigkeit zwischen den Personen ein Abstand von mindestens einem Meter eingehalten werden kann,
    sofern nicht durch entsprechende Schutzmaßnahmen das Infektionsrisiko minimiert werden kann.
+   Das verpflichtende Tragen von den Mund- und Nasenbereich gut abdeckenden mechanischen Schutzvorrichtung als Barriere gegen Tröpfcheninfektion in Bereichen,
+   wo dies nicht ohnehin auf Grund anderer Rechtsvorschriften verpflichtend erforderlich ist, ist nur im Einvernehmen zwischen Arbeitgeber und Arbeitnehmer zulässig.
    Dabei ist darauf zu achten, dass eine berufliche Tätigkeit vorzugweise außerhalb der Arbeitsstätte erfolgen soll,
    sofern dies möglich ist und Arbeitgeber und Arbeitnehmer darüber ein Einvernehmen finden.
 5. wenn öffentliche Orte im Freien alleine, mit Personen, die im gemeinsamen Haushalt leben,
@@ -63,8 +69,14 @@ Das Betreten von
    sowie im Rahmen von Unterstützungsleistungen für Allgemeine Krankenanstalten.
 
 *§ 4.*
-Die Benützung von Massenbeförderungsmitteln ist nur für Betretungen gemäß § 2 Z 1 bis 4 zulässig,
-wobei bei der Benützung ein Abstand von mindestens einem Meter gegenüber anderen Personen einzuhalten ist.
+(1) Das Betreten des Kundenbereichs in Massenbeförderungsmitteln ist nur zulässig, wenn dabei eine den Mund- und Nasenbereich
+gut abdeckende mechanische Schutzvorrichtung als Barriere gegen Tröpfcheninfektion getragen wird und bei der Benützung gegenüber Personen,
+die nicht im gemeinsamen Haushalt leben, ein Abstand von mindestens einem Meter gegenüber anderen Personen eingehalten wird.
+Die Pflicht zum Tragen der mechanischen Schutzvorrichtung gilt nicht für Kinder bis zum vollendeten sechsten Lebensjahr.
+
+(2) Fahrgemeinschaften mit Personen, die nicht im gemeinsamen Haushalt leben, sind nur zulässig, wenn dabei eine den Mund- und Nasenbereich
+gut abdeckende mechanische Schutzvorrichtung als Barriere gegen Tröpfcheninfektion getragen wird und gegenüber anderen Personen ein Abstand von mindestens einem Meter eingehalten wird.
+Die Pflicht zum Tragen der mechanischen Schutzvorrichtung gilt nicht für Kinder bis zum vollendeten sechsten Lebensjahr.
 
 *§ 5.*
 Das Betreten von Sportplätzen ist verboten.
@@ -74,8 +86,10 @@ Im Fall der Kontrolle durch Organe des öffentlichen Sicherheitsdienstes sind di
 warum eine Betretung gemäß § 2 zulässig ist, glaubhaft zu machen.
 
 *§ 7.*
-(1) Diese Verordnung tritt mit 16. März 2020 in Kraft und mit Ablauf des 13. April 2020 außer Kraft.
+(1) Diese Verordnung tritt mit 16. März 2020 in Kraft und mit Ablauf des 30. April 2020 außer Kraft.
 
 (2) Die Änderungen durch die Novelle https://www.ris.bka.gv.at/eli/bgbl/II/2020/107[BGBl. II Nr. 107/2020] treten mit dem der Kundmachung folgenden Tag in Kraft.
+
+(3) Die Änderungen dieser Verordnung durch die Verordnung BGBl. II Nr. 148/2020 treten mit Ablauf des 13. April 2020 in Kraft.
 
 *Anschober*
