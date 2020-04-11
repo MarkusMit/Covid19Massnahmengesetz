@@ -24,9 +24,9 @@ Fehler vorbehalten.
 [NOTE]
 ====
 Ausgegeben am 15. März 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/96[BGBl. II Nr. 96/2020]) +
-Novelle ausgegeben am 20. März 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/110[BGBl. II Nr. 110/2020]) +
-Gültig ab 21. März 2020 +
-Gültig bis 22. März 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/112[BGBl. II Nr. 112/2020])
+Novelle ausgegeben am 22. März 2020 (https://www.ris.bka.gv.at/eli/bgbl/II/2020/112[BGBl. II Nr. 112/2020]) +
+Gültig ab 23. März 2020 +
+Gültig bis 13. April 2020
 ====
 
 *96. Verordnung des Bundesministers für Soziales, Gesundheit, Pflege und Konsumentenschutz betreffend vorläufige Maßnahmen zur Verhinderung der Verbreitung von COVID-19*
@@ -38,7 +38,7 @@ Das Betreten des Kundenbereichs von Betriebsstätten des Handels und von Dienstl
 zum Zweck des Erwerbs von Waren oder der Inanspruchnahme von Dienstleistungen oder der Benützung von Freizeit- und Sportbetrieben ist untersagt.
 
 *§ 2.*
-§ 1 gilt nicht für folgende Bereiche:
+(1) § 1 gilt nicht für folgende Bereiche:
 
 1. öffentliche Apotheken
 2. Lebensmittelhandel (einschließlich Verkaufsstellen von Lebensmittelproduzenten) und bäuerlichen Direktvermarktern
@@ -65,6 +65,12 @@ jedoch ausschließlich für die Erbringung von Postdienstleistungen und die unte
 20. Abfallentsorgungsbetriebe
 21. KFZ-Werkstätten.
 
+(2) Die Ausnahmen nach Abs. 1 Z 3, 4, 8, 9 und 11 gelten an Werktagen von 07.40 Uhr bis längstens 19.00 Uhr.
+Restriktivere Öffnungszeitenregeln aufgrund anderer Rechtsvorschriften bleiben unberührt.
+
+(3) Die Ausnahmen nach Abs. 1 Z 2 gilt an Werktagen von 07.40 Uhr bis längstens 19.00 Uhr, sofern es sich nicht um eine Verkaufsstelle von Lebensmittelproduzenten handelt.
+Restriktivere Öffnungszeitenregeln aufgrund anderer Rechtsvorschriften bleiben unberührt.
+
 *§ 3.*
 (1) Das Betreten von Betriebsstätten sämtlicher Betriebsarten der Gastgewerbe ist untersagt.
 
@@ -83,10 +89,8 @@ ausschließlich an Gäste des Campingplatzes bzw. öffentlicher Verkehrsmitteln 
 (5) Abs. 1 gilt nicht für Lieferservice.
 
 *§ 4.*
-(1) §§ 1und 2 dieser Verordnung treten mit Ablauf des Tages der Kundmachung in Kraft.
+(1) Diese Verordnung tritt mit Ablauf des 13. April 2020 außer Kraft.
 
-(2) § 3 tritt mit 17. März 2020 in Kraft.
-
-(3) Diese Verordnung tritt mit Ablauf des 13. April 2020 außer Kraft.
+(2) Die Änderungen dieser Verordnung durch die Verordnung BGBl. II Nr. 112/2020 treten mit dem der Kundmachung folgenden Tag in Kraft.
 
 *Anschober*
